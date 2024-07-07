@@ -20,3 +20,4 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="40" height="40"/>
 
+![My github stats](https://github-readme-stats.vercel.app/api?username=SidCoder3904&show_icons=true)
