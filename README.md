@@ -1,16 +1,22 @@
-## Hi there 👋
+![MasterHead](https://visme.co/blog/wp-content/uploads/2020/03/animation-software-header-wide.gif)
+<h1 align="center">Hi 👋, I'm Siddharth Verma</h1>
+<h3 align="center">"The true sign of Intelligence is not Knowledge but Imagination"<br>-Albert Einstein</h3>
+<img  align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
-<!--
-**SidCoder3904/SidCoder3904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+😎 I’m currently what we call... **A Dangling Pointer**
 
-Here are some ideas to get you started:
+🚀 Diving into **AI/ML, BlockChain Dev, Web Dev**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+</p>
+
+<h3 align="left">Languages:</h3>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-plain.svg" alt="Solidity" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="40" height="40"/>
+
