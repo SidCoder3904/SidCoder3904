@@ -3,9 +3,9 @@
 <h3 align="center">"The true sign of Intelligence is not Knowledge but Imagination"<br>-Albert Einstein</h3>
 <img  align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
-😎 I’m currently what we call... **A Dangling Pointer**
+😎 I’m currently what we call... **A "Dangling" Pointer**
 
-🚀 Diving into **AI/ML, BlockChain Dev, Web Dev**
+🚀 Diving into **AI & ML, Reinforcement Learning, Web Dev**
 
 <p align="left">
 </p>
