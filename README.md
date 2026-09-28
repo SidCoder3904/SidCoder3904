@@ -1,11 +1,11 @@
 ![MasterHead](https://visme.co/blog/wp-content/uploads/2020/03/animation-software-header-wide.gif)
 <h1 align="center">Hi 👋, I'm Siddharth Verma</h1>
-<h3 align="center">"The true sign of Intelligence is not Knowledge but Imagination"<br>-Albert Einstein</h3>
+<h3 align="center">"You can outsource your Thinking, but you can't outsource your Understanding"</h3>
 <img  align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
-😎 I’m currently what we call... **A "Dangling" Pointer**
+😎 I’m currently working as SDE-1 at Pattern
 
-🚀 Diving into **AI & ML, Reinforcement Learning, Web Dev**
+🚀 Diving into **AI & ML, Reinforcement Learning, Software Development**
 
 <p align="left">
 </p>
